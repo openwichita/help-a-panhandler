@@ -1,0 +1,9 @@
+server/node_modules
+
+client/node_modules
+client/www/lib
+client/.tmp
+client/.sass-cache
+!client/platforms/platforms.json
+client/platforms
+client/plugins

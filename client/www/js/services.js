@@ -1,1 +1,1 @@
-angular.module('panhandlerHelp.services', []);
+angular.module('helpAPanhandler.services', []);

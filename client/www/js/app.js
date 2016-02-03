@@ -1,15 +1,15 @@
 // Ionic Starter App
 
 // angular.module is a global place for creating, registering and retrieving Angular modules
-// 'panhandlerHelp' is the name of this angular module example (also set in a <body> attribute in index.html)
+// 'helpAPanhandler' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
-// 'panhandlerHelp.services' is found in services.js
-// 'panhandlerHelp.controllers' is found in controllers.js
-angular.module('panhandlerHelp', [
+// 'helpAPanhandler.services' is found in services.js
+// 'helpAPanhandler.controllers' is found in controllers.js
+angular.module('helpAPanhandler', [
   'ionic',
   'ngCordova',
-  'panhandlerHelp.controllers',
-  'panhandlerHelp.services'
+  'helpAPanhandler.controllers',
+  'helpAPanhandler.services'
 ])
 
 .run(function($ionicPlatform) {

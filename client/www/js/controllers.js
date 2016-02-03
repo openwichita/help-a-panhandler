@@ -1,4 +1,4 @@
-angular.module('panhandlerHelp.controllers', [])
+angular.module('helpAPanhandler.controllers', [])
 
 .controller('MainCtrl', function($scope, $http, $cordovaGeolocation) {
 
